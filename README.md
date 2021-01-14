@@ -1,6 +1,4 @@
-> <h1>Clone página inicial de login do Instagraam</h1>
-
-> <h2>Sobre o Projeto</h2>
+> <h1>Clone página inicial de login do Instagram</h1>
 
 <!-- ************************************* Baadges ********************************************* -->
 <p align="center">
@@ -13,6 +11,8 @@
   </a>
 </p>
 
+
+> <h2>Sobre o Projeto</h2>
 <p>Nesse projeto você terá o desafio de reconstruir a página inicial de login do Instagram, no qual será abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade.
 
 CSS</p>
