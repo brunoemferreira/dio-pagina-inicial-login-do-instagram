@@ -31,4 +31,12 @@ CSS</p>
 - CSS
 - Flexbox
 
-> <h2></h2>
+<h2> 🎲 Rodando o Projeto </h2>
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/brunoemferreira/dio-pagina-inicial-login-do-instagram.git
+
+# Abra o arquivo index.html no browser de sua preferência
+
+```
